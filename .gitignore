@@ -1,3 +1,6 @@
+.ipynb_checkpoints/
+books/
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
